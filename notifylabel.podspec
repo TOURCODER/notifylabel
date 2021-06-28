@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "notifylabel"
-  s.version      = "0.0.6"
+  s.version      = "0.0.7"
   s.summary      = "A simple pop-ups label"
 
   # This description is used to generate tags and improve search results.
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Bin HUA" => "code@tourcoder.com" }
+  s.author             = { "hb" => "hb@tourcoder.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
